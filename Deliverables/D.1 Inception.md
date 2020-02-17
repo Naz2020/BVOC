@@ -78,10 +78,11 @@ For instance a change of phone number or address will notify those following to 
    * Interviewee Name: Anas / Rachel 
    * Interview Date: Feb 16, 2020
    * Consumer Segement: 18 and over 
-   * Key Insights: Age instruction protection which allowed people to keep over 18 age posted hidden from teenagers. could be use without Wi-Fi connection app were to delete numbers of contacts that I have not reached out within a 6 month period of time
-   * Representative Quote: " flexibility is the secret of success "
-   * Hypotheses Validated: easy to get access to others
-   * Assessment: must be able to block people if you get annoyed by them
+   * Key Insights: Age instruction protection which allowed people to keep over 18 age posted hidden from teenagers. could be use    without Wi-Fi connection app were to delete numbers of contacts that have not reached out within a 6 month period of time
+   * Representative Quote: " keep it update   "
+   * Hypotheses Validated: be able to delete or block 
+   * Assessment: nice to make the messages seen by other
+
 
  
 9. Interview 9 (Aziz)
